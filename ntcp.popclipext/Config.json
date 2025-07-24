@@ -1,0 +1,9 @@
+{
+  "popclipVersion": 4225,
+  "identifier": "com.example.popclip.extension.number-to-chinese",
+  "name": "数字转大写",
+  "icon": "icon.png",
+  "module": "number-to-chinese.ts",
+  "entitlements": ["dynamic"],
+  "description": "将阿拉伯数字转换为中文大写金额格式，支持整数和小数。"
+}
